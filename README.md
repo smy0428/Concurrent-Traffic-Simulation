@@ -1,6 +1,6 @@
 # C++ Concurrent Traffic Simulation
 
-<img src="images/traffic_simulation.gif"/>
+<img src="data/traffic_simulation.gif"/>
 
 This is the project for the fourth course in the [Udacity C++ Nanodegree Program](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213): Concurrency. 
 
@@ -10,7 +10,7 @@ Threads and synchronization mechanisms of C++11 are used to accomplish this task
 
 The schematic of the program looks like this:
 
-![](images/schematic.png)
+![](data/schematic.png)
 
 ## Dependencies for Running Locally
 * cmake >= 2.8
